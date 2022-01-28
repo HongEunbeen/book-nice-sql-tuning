@@ -155,7 +155,7 @@ I/O를 처리하는 동안 프로세스는 수명 상태에서 I/O가 완료되�
 
 ### [데이터베이스 저장 구조]
 
-![Untitled](image/01.png)
+![Untitled](https://github.com/HongEunbeen/book-nice-sql-tuning/blob/main/image/01.png)
 
 ```
 데이터 파일
