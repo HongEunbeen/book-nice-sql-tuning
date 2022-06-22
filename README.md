@@ -8,5 +8,5 @@
 | 3 | [인덱스 튜닝](https://github.com/HongEunbeen/book-nice-sql-tuning/tree/main/3%EC%9E%A5%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%ED%8A%9C%EB%8B%9D) | ☑️ | 22-2-15 |
 | 4 | [조인 튜닝](https://github.com/HongEunbeen/book-nice-sql-tuning/tree/main/4%EC%9E%A5%20%EC%A1%B0%EC%9D%B8%20%ED%8A%9C%EB%8B%9D) |  ☑️ | 22-2-18 |
 | 5 | [소트 튜닝](https://github.com/HongEunbeen/book-nice-sql-tuning/tree/main/5%EC%9E%A5%20%EC%86%8C%ED%8A%B8%20%EC%97%B0%EC%82%B0) | ☑️ | 22-3-10 |
-| 6 | DML 튜닝 | ⬜ |  |
+| 6 | [DML 튜닝](https://github.com/HongEunbeen/book-nice-sql-tuning/tree/main/6%EC%9E%A5%20DML%20%ED%8A%9C%EB%8B%9D) | ☑️ | 22-4-10 |
 | 7 | [SQL 옵티마이저](https://github.com/HongEunbeen/book-nice-sql-tuning/tree/main/7%EC%9E%A5%20SQL%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80) | ☑️ | 22-4-05 |
